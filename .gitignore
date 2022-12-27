@@ -3,3 +3,6 @@
 *.swp
 *.swo
 build/
+.mailmap
+iridium.txt
+tracking/iridium.txt
